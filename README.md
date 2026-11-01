@@ -2,6 +2,10 @@
 
 A Python-based command-line application that allows users to download YouTube videos and audio using the `yt-dlp` library.
 
+## Screenshot
+
+<img width="1310" height="826" alt="Cli png" src="https://github.com/user-attachments/assets/7420829d-71cb-4507-9d5e-aec94de6cf7b" />
+
 ## Features
 
 - Download YouTube videos.
